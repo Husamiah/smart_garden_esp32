@@ -1,0 +1,11 @@
+secrets.h
+
+*.hex
+build/
+.pio/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+*.swp
