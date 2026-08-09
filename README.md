@@ -48,7 +48,7 @@ Install the following via the Arduino IDE Library Manager:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart-garden-esp32.git
+   git clone https://github.com/Husamiah/smart-garden-esp32.git
    cd smart-garden-esp32
    ```
 
@@ -94,7 +94,7 @@ A lightweight dashboard (in Arabic) that auto-refreshes every second and display
 - Automatic mode toggle and moisture threshold adjustment
 - Audio alert toggle
 
-> Consider adding a screenshot of the live dashboard here.
+![Dashboard Screenshot](images/dashboard.png)
 
 ## 🚧 Future Work
 
